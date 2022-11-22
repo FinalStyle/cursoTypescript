@@ -6,4 +6,3 @@ console.log(a);
 
 // IMPORTANTE:
 // Ver la consola de JavaScript
-a;
